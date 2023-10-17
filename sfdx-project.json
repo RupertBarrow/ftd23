@@ -1,0 +1,23 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    },
+    {
+      "path": "main-package",
+      "package": "main-package",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""
+    }
+  ],
+  "name": "ftd23-packaging",
+  "namespace": "",
+  "sfdcLoginUrl": "https://ftd23-packages-sandbox-dev-ed.develop.salesforce.com",
+  "sourceApiVersion": "59.0",
+  "packageAliases": {
+    "main-package": "0Ho06000000TN5MCAW"
+  }
+}
